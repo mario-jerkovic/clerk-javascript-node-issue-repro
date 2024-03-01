@@ -1,0 +1,16 @@
+{
+  "name": "clerk-javascript-node-issue-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clerk/clerk-js": "^4.70.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
